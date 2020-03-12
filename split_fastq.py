@@ -46,10 +46,3 @@ for read in seqs:
         f.write(read.comment + '\n')
         f.write(read.quality + '\n')
     i += 1
-
-
-
-
-
-
-fu.close()
